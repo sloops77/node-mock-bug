@@ -1,0 +1,13 @@
+{
+  "name": "node-mock-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ethers": "6.14.0"
+  },
+  "private": true
+}
